@@ -56,6 +56,11 @@ src/test/java
  └── test
  
      ├── PurchaseFlowTest.java
+     
+ ## 🖥️ Console Output
+
+![Console Logs](https://raw.githubusercontent.com/ZVishakhaZ/Automation_Projects/main/screenshots/Console.png)
+
  
  └── utils
  
@@ -102,6 +107,14 @@ reports
 screenshots
 
      ├── *.png
+     
+## ✅ Passed Test Case Screenshot
+
+![Passed Test Case](https://raw.githubusercontent.com/ZVishakhaZ/Automation_Projects/main/screenshots/PassTestCase1.png)
+
+## ❌ Failed Test Case Screenshot
+
+![Failed Test Case](https://raw.githubusercontent.com/ZVishakhaZ/Automation_Projects/main/screenshots/FailedTestCase2Screenshot.png)
 
 logs
 
