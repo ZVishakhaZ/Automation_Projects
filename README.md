@@ -93,7 +93,10 @@ src/test/resources
 reports
 
      ├── ExtentReport.html
-     ![Extent Report](https://raw.githubusercontent.com/ZVishakhaZ/Automation_Projects/main/screenshots/ExtentReport1.png)
+
+## 📊 Extent Report Preview
+
+![Extent Report](https://raw.githubusercontent.com/ZVishakhaZ/Automation_Projects/main/screenshots/ExtentReport1.png)
 
 screenshots
 
