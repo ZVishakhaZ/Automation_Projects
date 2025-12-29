@@ -97,6 +97,7 @@ reports
 ## 📊 Extent Report Preview
 
 ![Extent Report](https://raw.githubusercontent.com/ZVishakhaZ/Automation_Projects/main/screenshots/ExtentReport1.png)
+![Extent Report](https://raw.githubusercontent.com/ZVishakhaZ/Automation_Projects/main/screenshots/ExtentReport2.png)
 
 screenshots
 
