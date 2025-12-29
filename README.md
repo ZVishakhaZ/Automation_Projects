@@ -110,7 +110,7 @@ screenshots
      
 ## ✅ Passed Test Case Screenshot
 
-![Passed Test Case](https://raw.githubusercontent.com/ZVishakhaZ/Automation_Projects/main/screenshots/PassTestCase1.png)
+![Passed Test Case](https://raw.githubusercontent.com/ZVishakhaZ/Automation_Projects/main/screenshots/PassTestCase1Screenshot.png)
 
 ## ❌ Failed Test Case Screenshot
 
