@@ -4,6 +4,10 @@ This repository contains a scalable Selenium automation framework built using Ja
 The framework supports data-driven testing using Excel, retry logic, TestNG listeners, logging, screenshot capture, and detailed reporting.
 
 ------------------------------------------------------------
+# 🚀 SauceDemo Automation Framework | Selenium + TestNG
+
+A scalable and maintainable Selenium automation framework designed for the SauceDemo application, covering functional test scenarios with detailed Extent Reports, console logs, screenshots for pass/fail cases, and industry-standard best practices.
+------------------------------------------------------------
 
 TECH STACK
 
