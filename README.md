@@ -93,6 +93,7 @@ src/test/resources
 reports
 
      ├── ExtentReport.html
+     ![Extent Report](screenshots/ExtentReport1.png)
 
 screenshots
 
