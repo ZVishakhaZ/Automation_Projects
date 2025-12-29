@@ -8,14 +8,23 @@ The framework supports data-driven testing using Excel, retry logic, TestNG list
 TECH STACK
 
 Language: Java (Java 17)
+
 Automation Tool: Selenium WebDriver
+
 Test Framework: TestNG
+
 Build Tool: Maven
+
 Design Pattern: Page Object Model (POM)
+
 Logging: Log4j2
+
 Reporting: Extent Reports
+
 Data Driven Testing: Apache POI (Excel)
+
 Version Control: Git & GitHub
+
 
 ------------------------------------------------------------
 
