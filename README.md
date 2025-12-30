@@ -115,6 +115,8 @@ screenshots
 
      ├── *.png
 
+Screenshots are captured automatically only on test failures.
+
 ## ❌ Failed Test Case Screenshot
 
 ![Failed Test Case](https://raw.githubusercontent.com/ZVishakhaZ/Automation_Projects/main/screenshots/FailedTestCase2Screenshot.png)
